@@ -56,8 +56,8 @@ If the output is 1, then the bulb glows.
 ```
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: Shaik Shoaib Nawaz 
-RegisterNumber: 212222240094 
+Developed by: Berjin Shabeck
+RegisterNumber: 212222240018
 */
 i.)Upcounter:
 module upcounter (clk,A);
